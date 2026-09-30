@@ -275,6 +275,3 @@ Java | MySQL | JDBC | Spring Boot | AI/ML
 ⭐ This project was created as part of my Java and Spring Boot learning journey.
 
 
-After pasting, press **Ctrl + S**.
-
-**Don't commit or push yet.** Once you've created and saved `README.md`, tell me **“README created”** and we'll do the Git commit and push together. 🚀
